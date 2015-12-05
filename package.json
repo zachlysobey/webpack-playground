@@ -2,7 +2,7 @@
   "name": "webpack-playground",
   "version": "1.0.0",
   "description": "",
-  "main": "bundle.js",
+  "main": "build/bundle.js",
   "scripts": {
     "build": "webpack --progress --colors",
     "watch": "webpack-dev-server --progress --colors"
